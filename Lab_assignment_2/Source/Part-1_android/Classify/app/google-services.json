@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "725530275455",
+    "firebase_url": "https://ase-tutorial7.firebaseio.com",
+    "project_id": "ase-tutorial7",
+    "storage_bucket": "ase-tutorial7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725530275455:android:c520f6ab46d80515",
+        "android_client_info": {
+          "package_name": "tutorial.cs5551.com.translateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725530275455-jia6gqaqpc3k22s1crc4n1ckhe4jntot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU7fyijHnif8hhkw_C20qV7BUVLy0BLpw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
